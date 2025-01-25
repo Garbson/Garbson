@@ -31,7 +31,4 @@ I am communicative, dedicated, and always interested in learning new technologie
 <a href="https://www.freecodecamp.org/arnon" target="_blank">
   <img src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp&style=for-the-badge" />
 </a>
-<a href="https://www.hackerrank.com/Garbson" target="_blank">
-  <img src="https://img.shields.io/badge/-HackerRank%20-black?logo=hackerrank&style=for-the-badge" />
-</a>
 </center>
