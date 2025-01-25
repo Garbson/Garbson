@@ -7,6 +7,10 @@ I have experience in websites with UX/UI design, SEO best practices, and agile m
 
 I am communicative, dedicated, and always interested in learning new technologies and improving my skills.
 
+All of my projects are available at [https://portifolio-by1.pages.dev/](https://portifolio-by1.pages.dev/)
+
+How to reach me **garbsonsouza2602@gmail.com**
+
 <hr>
 
 <center>
