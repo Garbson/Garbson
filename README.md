@@ -22,7 +22,7 @@
 🇬🇷 Atenas (2024)     → Painel administrativo eBay | Nuxt.js + SSR
 🇺🇸 Miami (2024)      → Startup com gráficos 2D | Vue.js + Pixi.js  
 🇵🇪 Cusco (2024)      → Site para hotel | Networking orgânico
-🇧🇷 Brasil (2025)     → Claro & Embratel | Sistemas críticos
+🇧🇷 Brasil (2024-25)  → KNN Idiomas + Claro & Embratel | Vue.js + Sistemas críticos
 ```
 
 <div align="center">
@@ -34,6 +34,7 @@
 ## 🚀 Sobre Mim
 
 - 🔭 **Atualmente:** Prestando serviços para **Claro e Embratel** via Grupo Easy
+- 🏢 **Experiência anterior:** **KNN Idiomas** (uma das maiores empresas de idiomas da América Latina)
 - 🌱 **Aprendendo:** Inglês técnico, performance optimization, arquitetura frontend
 - 💻 **Especialista em:** Vue.js, Nuxt.js, TypeScript, sistemas responsivos
 - 🎯 **Diferencial:** Experiência internacional + sistemas legados (Mainframe IBM)
@@ -89,19 +90,19 @@
     <td align="center">Hellenic Technologies</td>
     <td align="center">NeuroAEye</td>
     <td align="center">Hotel Cusco</td>
-    <td align="center">Claro & Embratel</td>
+    <td align="center">KNN Idiomas + Claro & Embratel</td>
   </tr>
   <tr>
     <td align="center">Mais de 1 ano</td>
     <td align="center">5 meses</td>
     <td align="center">Projeto único</td>
-    <td align="center">Atual</td>
+    <td align="center">9 meses + atual</td>
   </tr>
   <tr>
     <td align="center">Nuxt.js + eBay</td>
     <td align="center">Vue.js + Pixi.js</td>
     <td align="center">Turismo + UX</td>
-    <td align="center">Sistemas críticos</td>
+    <td align="center">EdTech + Telecom</td>
   </tr>
 </table>
 
@@ -125,7 +126,7 @@
 - 🌍 **Trabalho internacional aos 19 anos** sem inglês fluente
 - 📈 **Mais de 1 ano** de experiência na Europa
 - 🚀 **4 países diferentes** em projetos diversos
-- 💼 **Empresas gigantes brasileiras** (Claro & Embratel)
+- 🏢 **Empresas gigantes** (KNN Idiomas, Claro & Embratel)
 - 📱 **SaaS próprio** para comunidade de leitores
 - 🎯 **Especialista Vue.js** com cases internacionais
 
@@ -145,6 +146,12 @@
 - Sistema de amizades e recomendações
 - Interface responsiva e intuitiva
 
+### 🎓 Plataforma Educacional KNN Idiomas (Brasil)
+**Tech Stack:** Vue.js 2/3 + Vuetify 2/3 + REST APIs
+- Desenvolvimento para uma das maiores empresas de idiomas da América Latina
+- Plataforma educacional servindo milhares de estudantes
+- Interface responsiva e acessível para aprendizado de idiomas
+
 ### 🎯 Painel Administrativo eBay (Grécia)
 **Tech Stack:** Nuxt.js + SSR + Vue.js + API Integration
 - Gerenciamento de produtos para marketplace
@@ -163,7 +170,7 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garbsonsouza-0744a825a)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garbson-souza-0744a825a/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garbsonsouza2602@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-by1.pages.dev/)
   
