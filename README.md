@@ -1,25 +1,183 @@
-<h1 align="center">Hi 👋, I'm Garbson Souza</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<div align="center">
+  <h1>👋 Olá, eu sou Garbson Souza!</h1>
+  <h3>Frontend Developer | 20 anos, 4 países | Vue.js Specialist</h3>
+  
+  <p>
+    <strong>🌍 Desenvolvedor brasileiro que trabalha internacional sem inglês fluente</strong><br>
+    <em>Conectando tecnologia moderna com sistemas legados</em>
+  </p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Idade-20%20anos-blue?style=for-the-badge" alt="20 anos"/>
+    <img src="https://img.shields.io/badge/Países-4-green?style=for-the-badge" alt="4 países"/>
+    <img src="https://img.shields.io/badge/Vue.js-Specialist-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  </div>
+</div>
 
-- 🔭 I’m currently working on [Hellenic Tecnologies](https://feedel.io/)
+<br>
 
-- 🌱 I’m currently learning **PHP, Laravel, Python, Docker**
+## 🌍 Minha Jornada Internacional
 
-- 👨‍💻 All of my projects are available at [https://portifolio-by1.pages.dev/](https://portifolio-by1.pages.dev/)
+```
+🇬🇷 Atenas (2024)     → Painel administrativo eBay | Nuxt.js + SSR
+🇺🇸 Miami (2024)      → Startup com gráficos 2D | Vue.js + Pixi.js  
+🇵🇪 Cusco (2024)      → Site para hotel | Networking orgânico
+🇧🇷 Brasil (2025)     → Claro & Embratel | Sistemas críticos
+```
 
-- 💬 Ask me about **vue.js, typeScrit, tailwind, vuetify**
+<div align="center">
+  <em>"Faça um bom código, entregue o que precisa e quando precisar - isso vai falar por si só"</em>
+</div>
 
-- 📫 How to reach me **garbsonsouza2602@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/garbson-souza-2-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="garbson-souza-2-c" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/garbson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garbson" height="30" width="40" /></a>
-</p>
+## 🚀 Sobre Mim
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+- 🔭 **Atualmente:** Prestando serviços para **Claro e Embratel** via Grupo Easy
+- 🌱 **Aprendendo:** Inglês técnico, performance optimization, arquitetura frontend
+- 💻 **Especialista em:** Vue.js, Nuxt.js, TypeScript, sistemas responsivos
+- 🎯 **Diferencial:** Experiência internacional + sistemas legados (Mainframe IBM)
+- 📚 **Projeto pessoal:** SaaS - rede social para leitores
+- 🎨 **Portfolio:** [portifolio-by1.pages.dev](https://portifolio-by1.pages.dev/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garbson&show_icons=true&locale=en&layout=compact" alt="garbson" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garbson&" alt="garbson" /></p>
+## 🛠️ Stack Tecnológico
+
+### Frontend Core
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+### UI/UX Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify"/>
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</div>
+
+### Ferramentas & Outros
+<div align="center">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
+
+### Sistemas Legados
+<div align="center">
+  <img src="https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge" alt="COBOL"/>
+  <img src="https://img.shields.io/badge/Mainframe_IBM-006699?style=for-the-badge" alt="Mainframe IBM"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+</div>
+
+<br>
+
+## 🎯 Experiência Internacional
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>🇬🇷 Grécia</strong></td>
+    <td align="center"><strong>🇺🇸 EUA</strong></td>
+    <td align="center"><strong>🇵🇪 Peru</strong></td>
+    <td align="center"><strong>🇧🇷 Brasil</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Hellenic Technologies</td>
+    <td align="center">NeuroAEye</td>
+    <td align="center">Hotel Cusco</td>
+    <td align="center">Claro & Embratel</td>
+  </tr>
+  <tr>
+    <td align="center">Mais de 1 ano</td>
+    <td align="center">5 meses</td>
+    <td align="center">Projeto único</td>
+    <td align="center">Atual</td>
+  </tr>
+  <tr>
+    <td align="center">Nuxt.js + eBay</td>
+    <td align="center">Vue.js + Pixi.js</td>
+    <td align="center">Turismo + UX</td>
+    <td align="center">Sistemas críticos</td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garbson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garbson&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garbson&theme=tokyonight" alt="garbson"/>
+</div>
+
+<br>
+
+## 🏆 Conquistas
+
+- 🌍 **Trabalho internacional aos 19 anos** sem inglês fluente
+- 📈 **Mais de 1 ano** de experiência na Europa
+- 🚀 **4 países diferentes** em projetos diversos
+- 💼 **Empresas gigantes brasileiras** (Claro & Embratel)
+- 📱 **SaaS próprio** para comunidade de leitores
+- 🎯 **Especialista Vue.js** com cases internacionais
+
+<br>
+
+## 💡 Filosofia de Desenvolvimento
+
+> *"Código é uma linguagem universal. Não importa se você fala português, inglês ou grego - se seu código resolve problemas e entrega valor, ele vai falar por si só."*
+
+<br>
+
+## 🌟 Projetos em Destaque
+
+### 🔥 Rede Social para Leitores
+**Tech Stack:** Vue.js 3 + Composition API + Supabase + Tailwind CSS
+- Plataforma para leitores acompanharem suas leituras
+- Sistema de amizades e recomendações
+- Interface responsiva e intuitiva
+
+### 🎯 Painel Administrativo eBay (Grécia)
+**Tech Stack:** Nuxt.js + SSR + Vue.js + API Integration
+- Gerenciamento de produtos para marketplace
+- Performance otimizada para mercado europeu
+- Mais de 1 ano de desenvolvimento e manutenção
+
+### 🎨 Gráficos 2D de Alta Performance (EUA)
+**Tech Stack:** Vue.js + Pixi.js + JavaScript
+- Renderização de 1000+ objetos simultâneos
+- Integração complexa com ciclo de vida do Vue
+- Performance crítica para startup americana
+
+<br>
+
+## 📫 Vamos Conversar?
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garbsonsouza-0744a825a)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garbsonsouza2602@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-by1.pages.dev/)
+  
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=garbson&label=Profile%20views&color=0e75b6&style=flat" alt="garbson"/>
+  
+  <br><br>
+  
+  <em>💡 "Faça um bom trabalho, entregue no prazo, e o código vai falar por você"</em>
+  
+  <br><br>
+  
+  <sub>⭐ Se gostou do meu trabalho, considere dar uma estrela nos repositórios!</sub>
+</div>
