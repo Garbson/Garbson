@@ -19,7 +19,7 @@
 ## 🌍 Minha Jornada Internacional
 
 ```
-🇬🇷 Atenas (2024)     → Painel administrativo eBay | Nuxt.js + SSR
+🇬🇷 Atenas (2024)     → Painel administrativo eBay | Nuxt.js + Vue.js
 🇺🇸 Miami (2024)      → Startup com gráficos 2D | Vue.js + Pixi.js  
 🇵🇪 Cusco (2024)      → Site para hotel | Networking orgânico
 🇧🇷 Brasil (2024-25)  → KNN Idiomas + Claro & Embratel | Vue.js + Sistemas críticos
