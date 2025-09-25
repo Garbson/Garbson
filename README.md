@@ -34,7 +34,7 @@
 **💼 Grupo Easy (Jun 2025 - Atual)**
 - Sistemas fiscais críticos para **Claro, Embratel e GlobalHits**
 - Projetos **NFCOM e RGC** - Migração (modelo 22 → 62) afetando milhões de usuários
-- **Stack:** Java Server Pages, COBOL, IBM Mainframe
+- **Stack:** Java Server Pages, NATURAL, COBOL, IBM Mainframe
 - **Impacto:** Processamento de milhões de transações mensais
 
 **🎓 KNN Idiomas (Out 2024 - Jun 2025)**
@@ -64,6 +64,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NATURAL](https://img.shields.io/badge/NATURAL-005CA5?style=for-the-badge)
 ![IBM](https://img.shields.io/badge/IBM_Mainframe-006699?style=for-the-badge)
 
 </div>
@@ -87,7 +88,7 @@
   </tr>
   <tr>
     <td><strong>🔄 Scrum Certified</strong></td>
-    <td>Fundamentals + Metodologias Ágeis</td>
+    <td>SFC (SCRUMstudy) + Metodologias Ágeis</td>
   </tr>
   <tr>
     <td><strong>💻 freeCodeCamp</strong></td>
@@ -105,11 +106,12 @@
 - Integração REST APIs para mercado europeu
 - Performance otimizada para alta demanda
 
-### 🎯 **Gráficos 2D (Miami) - Startup**
-**NeuroAEye • Vue.js + Pixi.js + Canvas**
-- 2D graphics de alta performance 
-- Milhares de elementos visuais simultâneos
-- Integração complexa Pixi.js + Vue lifecycle
+### 🏢 **Sistemas Fiscais (Brasil)**
+**Grupo Easy • Java Server Pages + NATURAL + Mainframe**
+- Sistemas críticos Claro/Embratel/GlobalHits
+- Projetos **NFCOM e RGC**
+- Processamento milhões transações/mês
+- Migração modelo 22 → 62
 
 ### 📚 **Litshelf - Rede Social (Projeto Pessoal)**
 **Vue.js + Supabase + TypeScript**
@@ -117,12 +119,11 @@
 - Sistema de amizades e recomendações
 - Interface responsiva e intuitiva
 
-### 🏢 **Sistemas Fiscais (Brasil)**
-**Grupo Easy • Java Server Pages + Mainframe**
-- Sistemas críticos Claro/Embratel
-- Projetos **NFCOM e RGC**
-- Processamento milhões transações/mês
-- Migração modelo 22 → 62
+### 🎓 **KNN Idiomas - EdTech (9 meses)**
+**Vue.js + Vuetify • Plataforma Educacional**
+- Uma das maiores empresas de idiomas da América Latina
+- Milhares de estudantes atendidos
+- Interface responsiva para aprendizado
 
 <br>
 
@@ -184,6 +185,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garbsonsouza-0744a825a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-by1.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garbsonsouza2602@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5568992490198)
 
 </div>
 
