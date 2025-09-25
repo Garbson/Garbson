@@ -37,6 +37,12 @@
 - **Stack:** Java Server Pages, NATURAL, COBOL, IBM Mainframe
 - **Impacto:** Processamento de milhões de transações mensais
 
+**🏛️ Hellenic Technologies (Abr 2024 - Abr 2025)**
+- Frontend Developer no mercado europeu por **1+ ano**
+- Desenvolvimento de aplicações com **Nuxt.js + Vue.js + Pinia**
+- **Stack:** Vue.js, Nuxt.js, Pinia, JavaScript, REST APIs
+- **Impacto:** Aplicações robustas para clientes europeus
+
 **🎓 KNN Idiomas (Out 2024 - Jun 2025)**
 - Uma das maiores empresas de idiomas da América Latina
 - Plataforma educacional para milhares de estudantes
@@ -168,7 +174,7 @@
 
 **🎓 Formação de Elite**
 - Harvard CS50 Computer Science
-- Certificações de ponta (Anthropic, Software AG)
+- Certificações de ponta (Anthropic, Software AG, SCRUMstudy)
 - Aprendizado contínuo com instituições renomadas
 
 **⚡ Perfil Híbrido**
@@ -186,6 +192,27 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-by1.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garbsonsouza2602@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5568992490198)
+
+</div>
+
+<br>
+
+## 📜 Certificações Completas
+
+<div align="center">
+
+| Instituição | Certificação | Ano | Link |
+|-------------|--------------|-----|------|
+| **Harvard University** | CS50: Introduction to Computer Science | 2023 | [📄 Certificado](certificado-cs50.pdf) |
+| **Anthropic** | AI Fluency for Students | 2025 | [📄 Certificado](certificate-7ewkgwxbuqib-1758207787.pdf) |
+| **Anthropic** | Claude Code in Action | 2025 | [📄 Certificado](certificate-tub3be6py75w-1758573779.pdf) |
+| **Anthropic** | AI Fluency: Frameworks & Foundations | 2025 | [📄 Certificado](IA_FLUENCY_CERTIFICADO.pdf) |
+| **Software AG** | Natural Programming Basic | 2025 | [📄 Certificado](64_3_18143_1758665532_SAG-Certificate_of_Completion_signed.pdf) |
+| **SCRUMstudy** | Scrum Fundamentals Certified (SFC) | 2025 | [📄 Certificado](ScrumFundamentalsCertified-GarbsonVilanova-1106530.pdf) |
+| **LinkedIn Learning** | Scrum: Planejamento e Desenvolvimento Ágeis | 2025 | [📄 Certificado](#) |
+| **freeCodeCamp** | Back End Development and APIs | 2025 | [📄 Certificado](#) |
+| **freeCodeCamp** | JavaScript Algorithms and Data Structures | 2023 | [📄 Certificado](#) |
+| **freeCodeCamp** | Responsive Web Design | 2023 | [📄 Certificado](#) |
 
 </div>
 
