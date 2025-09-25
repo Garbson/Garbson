@@ -199,22 +199,30 @@
 
 ## 📜 Certificações Completas
 
-<div align="center">
+### 📄 Certificados PDF (Download)
+- **Harvard University - CS50: Introduction to Computer Science (2023)**  
+  Link: [certificates/certificado-cs50.pdf](certificates/certificado-cs50.pdf)
 
-| Instituição | Certificação | Ano | Link |
-|-------------|--------------|-----|------|
-| **Harvard University** | CS50: Introduction to Computer Science | 2023 | [📄 Certificado](certificado-cs50.pdf) |
-| **Anthropic** | AI Fluency for Students | 2025 | [📄 Certificado](certificate-7ewkgwxbuqib-1758207787.pdf) |
-| **Anthropic** | Claude Code in Action | 2025 | [📄 Certificado](certificate-tub3be6py75w-1758573779.pdf) |
-| **Anthropic** | AI Fluency: Frameworks & Foundations | 2025 | [📄 Certificado](IA_FLUENCY_CERTIFICADO.pdf) |
-| **Software AG** | Natural Programming Basic | 2025 | [📄 Certificado](64_3_18143_1758665532_SAG-Certificate_of_Completion_signed.pdf) |
-| **SCRUMstudy** | Scrum Fundamentals Certified (SFC) | 2025 | [📄 Certificado](ScrumFundamentalsCertified-GarbsonVilanova-1106530.pdf) |
-| **LinkedIn Learning** | Scrum: Planejamento e Desenvolvimento Ágeis | 2025 | [📄 Certificado](#) |
-| **freeCodeCamp** | Back End Development and APIs | 2025 | [📄 Certificado](#) |
-| **freeCodeCamp** | JavaScript Algorithms and Data Structures | 2023 | [📄 Certificado](#) |
-| **freeCodeCamp** | Responsive Web Design | 2023 | [📄 Certificado](#https://www.freecodecamp.org/portuguese/certification/garbson_souza/responsive-web-design) |
+- **Software AG - Natural Programming Basic (2025)**  
+  Link: [certificates/natural.pdf](certificates/natural.pdf)
 
-</div>
+### 🔗 Certificados Online (Verificação)
+
+**Anthropic (2025):**
+- AI Fluency for Students: https://verify.skilljar.com/c/7ewkgwxbuqib
+- Claude Code in Action: https://verify.skilljar.com/c/tub3be6py75w
+- AI Fluency: Frameworks & Foundations: https://verify.skilljar.com/c/bmwmp2ti8yi6
+
+**SCRUMstudy (2025):**
+- Scrum Fundamentals Certified (SFC™): https://www.scrumstudy.com/certification/verify?type=SFC&number=1106530
+
+**LinkedIn Learning (2025):**
+- Scrum: Planejamento e Desenvolvimento Ágeis: https://www.linkedin.com/learning/certificates/808e796b79aae092046d6b35bcfad80a5987c1efdd834582268590c9929ea7e2?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2jXYDFQ8SKSAFDokliPgyw%3D%3D
+
+**freeCodeCamp:**
+- Back End Development and APIs (2025): https://www.freecodecamp.org/certification/garbson_souza/back-end-development-and-apis
+- JavaScript Algorithms and Data Structures (2023): https://www.freecodecamp.org/certification/garbson_souza/javascript-algorithms-and-data-structures
+- Responsive Web Design (2023): https://www.freecodecamp.org/portuguese/certification/garbson_souza/responsive-web-design
 
 ---
 
