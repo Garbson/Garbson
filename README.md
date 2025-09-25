@@ -207,7 +207,7 @@
 | **Anthropic** | AI Fluency for Students | 2025 | [📄 Certificado](certificate-7ewkgwxbuqib-1758207787.pdf) |
 | **Anthropic** | Claude Code in Action | 2025 | [📄 Certificado](certificate-tub3be6py75w-1758573779.pdf) |
 | **Anthropic** | AI Fluency: Frameworks & Foundations | 2025 | [📄 Certificado](IA_FLUENCY_CERTIFICADO.pdf) |
-| **Software AG** | Natural Programming Basic | 2025 | [📄 Certificado](natural.pdf) |
+| **Software AG** | Natural Programming Basic | 2025 | [📄 Certificado](64_3_18143_1758665532_SAG-Certificate_of_Completion_signed.pdf) |
 | **SCRUMstudy** | Scrum Fundamentals Certified (SFC) | 2025 | [📄 Certificado](ScrumFundamentalsCertified-GarbsonVilanova-1106530.pdf) |
 | **LinkedIn Learning** | Scrum: Planejamento e Desenvolvimento Ágeis | 2025 | [📄 Certificado](#) |
 | **freeCodeCamp** | Back End Development and APIs | 2025 | [📄 Certificado](#) |
