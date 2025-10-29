@@ -1,60 +1,62 @@
 <div align="center">
   <h1>👋 Garbson Souza</h1>
-  <h3>Analista Desenvolvedor Frontend • Vue.js Specialist • 20 anos</h3>
+  <h3>Frontend Developer Analyst • Vue.js Specialist • 20 years old</h3>
   
-  <p><strong>🌍 Trabalhando internacional desde os 19 anos em 4 países</strong></p>
-  <p><em>Provando que talento supera barreiras de idade e idioma</em></p>
+  <p><strong>🌍 Working internationally since age 19 across 5 countries</strong></p>
+  <p><em>"Code is a universal language - if it delivers value, it will speak for itself"</em></p>
   
   <div>
-    <img src="https://img.shields.io/badge/Idade-20%20anos-blue?style=for-the-badge" alt="20 anos"/>
-    <img src="https://img.shields.io/badge/Países-4-green?style=for-the-badge" alt="4 países"/>
+    <img src="https://img.shields.io/badge/Age-20%20years-blue?style=for-the-badge" alt="20 years"/>
+    <img src="https://img.shields.io/badge/Countries-5-green?style=for-the-badge" alt="5 countries"/>
     <img src="https://img.shields.io/badge/Vue.js-Specialist-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   </div>
 </div>
 
 <br>
 
-## 🚀 Jornada Internacional
-
+## 🚀 International Journey
 ```
-🇬🇷 Atenas (Abr 2024 - Abr 2025)   → Painel eBay | Nuxt.js + Vue.js + Pinia
-🇺🇸 Miami (Abr - Ago 2024)          → Startup gráficos 2D | Vue.js + Pixi.js  
-🇵🇪 Peru (projeto 2024)             → Website hotel | Networking orgânico
-🇧🇷 Brasil (Out 2024 - atual)       → KNN Idiomas + Claro/Embratel | EdTech + Telecom
+🇬🇷 Athens (Apr 2024 - Apr 2025)     → eBay Dashboard | Nuxt.js + Vue.js + Pinia
+🇺🇸 Miami (Apr - Aug 2024)           → 2D Graphics Startup | Vue.js + Pixi.js  
+🇵🇪 Peru (project 2024)              → Hotel Website | Organic networking
+🇵🇭 Philippines (current)            → RA UNLIMITED | Clean Energy Solutions
+🇧🇷 Brazil (current)                 → Claro/Embratel | Critical Telecom Systems
 ```
-
-<div align="center">
-  <em>"Código é linguagem universal - se entrega valor, vai falar por si só"</em>
-</div>
 
 <br>
 
-## 🎯 Experiência Atual
+## 🎯 Current Experience
 
-**💼 Grupo Easy (Jun 2025 - Atual)**
-- Sistemas fiscais críticos para **Claro, Embratel e GlobalHits**
-- Projetos **NFCOM e RGC** - Migração (modelo 22 → 62) afetando milhões de usuários
-- **Stack:** Java Server Pages, NATURAL, COBOL, IBM Mainframe
-- **Impacto:** Processamento de milhões de transações mensais
+**🌱 RA UNLIMITED (Oct 2025 - Present)**
+Frontend Developer at RA UNLIMITED - Building clean energy solutions that empower Filipino communities to escape poverty through sustainable solar technology. Developing responsive Vue.js/Nuxt.js platforms that democratize access to renewable energy.
 
-**🏛️ Hellenic Technologies (Abr 2024 - Abr 2025)**
-- Frontend Developer no mercado europeu por **1+ ano**
-- Desenvolvimento de aplicações com **Nuxt.js + Vue.js + Pinia**
+Tech Stack: Vue.js, Nuxt.js, TypeScript, Tailwind CSS, JavaScript
+Impact: Helping communities transition to clean energy and improve quality of life
+
+**💼 Grupo Easy (Jun 2025 - Present)**
+Frontend Developer Analyst at Grupo Easy - Contributing to critical tax compliance systems for Brazil's largest telecom operators (Claro, Embratel, GlobalHits). Building enterprise-grade solutions serving millions of users nationwide.
+
+Tech Stack: Java Server Pages, COBOL, Java, IBM Mainframe, Legacy System Integration
+Impact: Processing millions of telecommunications transactions monthly
+
+**🏛️ Hellenic Technologies (Apr 2024 - Apr 2025)**
+- Frontend Developer in European market for **1+ year**
+- Applications development with **Nuxt.js + Vue.js + Pinia**
 - **Stack:** Vue.js, Nuxt.js, Pinia, JavaScript, REST APIs
-- **Impacto:** Aplicações robustas para clientes europeus
+- **Impact:** Robust applications for European clients
 
-**🎓 KNN Idiomas (Out 2024 - Jun 2025)**
-- Uma das maiores empresas de idiomas da América Latina
-- Plataforma educacional para milhares de estudantes
+**🎓 KNN Idiomas (Oct 2024 - Jun 2025)**
+- One of Latin America's largest language education companies
+- Educational platform serving thousands of students
 - **Stack:** Vue.js (v2, v3), Vuetify (v2, v3), REST APIs
 
 <br>
 
-## 💻 Stack Técnica
+## 💻 Tech Stack
 
 <div align="center">
   
-**Frontend Especializado**
+**Frontend Specialized**
   
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
@@ -66,7 +68,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 
-**Backend & Sistema**
+**Backend & Systems**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -77,12 +79,12 @@
 
 <br>
 
-## 🎓 Certificações & Formação
+## 🎓 Certifications & Education
 
 <table align="center">
   <tr>
     <td><strong>🎓 Harvard CS50</strong></td>
-    <td>Ciência da Computação (2023)</td>
+    <td>Computer Science (2023)</td>
   </tr>
   <tr>
     <td><strong>🤖 Anthropic</strong></td>
@@ -94,7 +96,7 @@
   </tr>
   <tr>
     <td><strong>🔄 Scrum Certified</strong></td>
-    <td>SFC (SCRUMstudy) + Metodologias Ágeis</td>
+    <td>SFC (SCRUMstudy) + Agile Methodologies</td>
   </tr>
   <tr>
     <td><strong>💻 freeCodeCamp</strong></td>
@@ -104,32 +106,38 @@
 
 <br>
 
-## 🌟 Projetos Destacados
+## 🌟 Featured Projects
 
-### 🏛️ **Painel eBay (Grécia) - 1+ ano**
+### 🏛️ **eBay Dashboard (Greece) - 1+ year**
 **Hellenic Technologies • Vue.js + Nuxt.js + Pinia**
-- Aplicações universais com server-side rendering
-- Integração REST APIs para mercado europeu
-- Performance otimizada para alta demanda
+- Universal applications with server-side rendering
+- REST API integrations for European market
+- Performance optimized for high demand
 
-### 🏢 **Sistemas Fiscais (Brasil)**
+### 🏢 **Critical Fiscal Systems (Brazil)**
 **Grupo Easy • Java Server Pages + NATURAL + Mainframe**
-- Sistemas críticos Claro/Embratel/GlobalHits
-- Projetos **NFCOM e RGC**
-- Processamento milhões transações/mês
-- Migração modelo 22 → 62
+- Critical systems for Claro/Embratel/GlobalHits
+- **NFCOM and RGC** projects
+- Processing millions of transactions/month
+- Migration model 22 → 62
 
-### 📚 **Litshelf - Rede Social (Projeto Pessoal)**
+### 🌱 **Clean Energy Platform (Philippines)**
+**RA UNLIMITED • Vue.js + Nuxt.js + TypeScript**
+- Sustainable solar energy solutions
+- Empowering communities to escape poverty
+- Responsive and modern interface
+
+### 📚 **Litshelf - Social Network (Personal Project)**
 **Vue.js + Supabase + TypeScript**
-- Rede social para leitores acompanharem leituras
-- Sistema de amizades e recomendações
-- Interface responsiva e intuitiva
+- Social network for book readers to track their reading journey
+- Friendship system and recommendations
+- Responsive and intuitive interface
 
-### 🎓 **KNN Idiomas - EdTech (9 meses)**
-**Vue.js + Vuetify • Plataforma Educacional**
-- Uma das maiores empresas de idiomas da América Latina
-- Milhares de estudantes atendidos
-- Interface responsiva para aprendizado
+### 🎓 **KNN Idiomas - EdTech (9 months)**
+**Vue.js + Vuetify • Educational Platform**
+- One of Latin America's largest language companies
+- Serving thousands of students
+- Responsive interface for learning
 
 <br>
 
@@ -146,45 +154,45 @@
 
 <br>
 
-## 🎯 Foco Atual (2025)
+## 🎯 Current Focus (2025)
 
-**💼 Profissional**
-- **Analista de Sistemas:** Transição para análise e arquitetura
-- **Vue.js Sênior:** Padrões avançados e otimização performance
-- **Sistemas Legacy:** Mainframe + Frontend moderno
+**💼 Professional**
+- **Systems Analyst:** Transitioning to analysis and architecture
+- **Senior Vue.js:** Advanced patterns and performance optimization
+- **Legacy Systems:** Mainframe + Modern Frontend integration
 
-**📚 Aprendizado Contínuo**
-- **IA & Prompt Engineering** (Anthropic Certified)
+**📚 Continuous Learning**
+- **AI & Prompt Engineering** (Anthropic Certified)
 - **Natural Programming** (Software AG)
-- **Metodologias Ágeis** (Scrum Certified)
+- **Agile Methodologies** (Scrum Certified)
 - **Backend Development** (Node.js + APIs)
 
-**🚀 Projetos**
-- **Litshelf:** Crescimento da rede social para leitores
-- **IA + Vue.js:** Explorando integração Claude em frontends
+**🚀 Projects**
+- **Litshelf:** Growing social network for book readers
+- **AI + Vue.js:** Exploring Claude integration in frontends
 
 <br>
 
-## 💡 Diferencial
+## 💡 What Makes Me Different
 
-**🌍 Trabalho Internacional Jovem**
-- Experiência em 4 países aos 20 anos
-- Colaboração remota multicultural
-- Adaptação rápida a diferentes mercados
+**🌍 Young International Experience**
+- Experience across 5 countries at age 20
+- Multicultural remote collaboration
+- Quick adaptation to different markets
 
-**🎓 Formação de Elite**
+**🎓 Elite Education**
 - Harvard CS50 Computer Science
-- Certificações de ponta (Anthropic, Software AG, SCRUMstudy)
-- Aprendizado contínuo com instituições renomadas
+- Cutting-edge certifications (Anthropic, Software AG, SCRUMstudy)
+- Continuous learning with renowned institutions
 
-**⚡ Perfil Híbrido**
-- Analista + Desenvolvedor
-- Frontend moderno + Sistemas legados  
-- Experiência startup + corporações
+**⚡ Hybrid Profile**
+- Analyst + Developer
+- Modern Frontend + Legacy Systems  
+- Startup experience + Corporations
 
 <br>
 
-## 📫 Contato
+## 📫 Let's Connect
 
 <div align="center">
   
@@ -197,16 +205,16 @@
 
 <br>
 
-## 📜 Certificações Completas
+## 📜 Complete Certifications
 
-### 📄 Certificados PDF (Download)
+### 📄 PDF Certificates (Download)
 - **Harvard University - CS50: Introduction to Computer Science (2023)**  
   Link: [certificates/certificado-cs50.pdf](certificates/certificado-cs50.pdf)
 
 - **Software AG - Natural Programming Basic (2025)**  
   Link: [certificates/natural.pdf](certificates/natural.pdf)
 
-### 🔗 Certificados Online (Verificação)
+### 🔗 Online Certificates (Verification)
 
 **Anthropic (2025):**
 - AI Fluency for Students: https://verify.skilljar.com/c/7ewkgwxbuqib
@@ -217,7 +225,7 @@
 - Scrum Fundamentals Certified (SFC™): https://www.scrumstudy.com/certification/verify?type=SFC&number=1106530
 
 **LinkedIn Learning (2025):**
-- Scrum: Planejamento e Desenvolvimento Ágeis: https://www.linkedin.com/learning/certificates/808e796b79aae092046d6b35bcfad80a5987c1efdd834582268590c9929ea7e2?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B2jXYDFQ8SKSAFDokliPgyw%3D%3D
+- Scrum: Agile Planning & Development: https://www.linkedin.com/learning/certificates/808e796b79aae092046d6b35bcfad80a5987c1efdd834582268590c9929ea7e2
 
 **freeCodeCamp:**
 - Back End Development and APIs (2025): https://www.freecodecamp.org/certification/garbson_souza/back-end-development-and-apis
@@ -232,9 +240,9 @@
   
   <br><br>
   
-  <sub>⭐ **Analista Desenvolvedor • 20 anos • 4 países • Próximo: onde precisarem de Vue.js + visão de sistemas**</sub>
+  <sub>⭐ **Frontend Developer Analyst • 20 years • 5 countries • Next: wherever Vue.js + systems vision is needed**</sub>
   
   <br><br>
   
-  <em>💪 "A idade é só um número. O que importa é a qualidade do que você entrega."</em>
+  <em>💪 "Age is just a number. What matters is the quality of what you deliver."</em>
 </div>
