@@ -58,13 +58,6 @@ Scrum Certified (SFC) | Análise de Requisitos
 Documentação Técnica | Compliance Regulatório
 ```
 
-### Por que esse perfil é raro?
-
-1. **Poucos jovens dominam mainframe** (NATURAL ONE + COBOL)
-2. **Poucos analistas codificam** (eu faço análise E implementação)
-3. **Poucos frontend entendem sistemas críticos** (telecom, fiscal, banking)
-
----
 
 ## 📈 Métricas de Impacto
 
